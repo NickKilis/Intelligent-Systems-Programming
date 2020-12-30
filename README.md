@@ -1,19 +1,19 @@
 # Intelligent Systems Programming
  
 Simbad - Robot simulation in Java 3D:\
-A.Prior installations : 
+A. Prior installations : 
   1. IDE : eclipse 
   2. Java 3D (v1.5)
   3. JRE
   4. JDK
   5. Incorporate "Simbad-1.7.jar" in the project libraries
 
-B.Environment :
+B. Environment :
   1. Multiple randomly placed obstacles
   2. Random initial robot position
   3. Light source - goal
 
-C.Robot :
+C. Robot :
   1. Disk-shaped chassis 
   2. Differential drive scheme
   3. No knowledge of obstacles' shapes and positions
